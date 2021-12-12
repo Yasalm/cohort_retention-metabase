@@ -28,3 +28,5 @@ docker compose up
                                                                                                            ```
 7. to reflect changes on METABASE you will need to go to setting ->  admin page -> databases -> click "Sync database schema now" and "Re-scan field values now"
 8. METABASE should reflect and update to changes.
+
+![Alt text](pubilc/Example.png)
